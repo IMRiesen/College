@@ -1,5 +1,11 @@
 Авангард
+
 Адаптация
+https://github.com/armandvh/pythontodolist sqlite
+https://github.com/BobsProgrammingAcademy/student-management-system
+sqlite+django
+https://github.com/gurkanakdeniz/example-flask-crud
+flask
 Азиатский
 Акварель
 Альтернативный
